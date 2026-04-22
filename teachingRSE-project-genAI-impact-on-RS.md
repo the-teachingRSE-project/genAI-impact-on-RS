@@ -16,7 +16,7 @@ but it reinforces the dangerous habit of not fact-checking results.
 
 Also we observe, that a lot of the exercise material that we currently provide becomes far too easily solvable 
 using AI tools. This points at a lack of good AI patterns for exercising materials.
-A possible venue out here, is to ask bigger tasks from students. that would not have been resovable in an afternoon in previous times.
+A possible solution to this problem, is to ask the students to solve bigger tasks. which they could not have tackled in an afternoon before.
 With these bigger problems now should require students to figure out problem parts for an AI system, and afterwards recombine the solutions.
 
 Since a lot of the beginner tasks are now too easy we effectively removed a lot of the stepping stones that are required to train beginners.

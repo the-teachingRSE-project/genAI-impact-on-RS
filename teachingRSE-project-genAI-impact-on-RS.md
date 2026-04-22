@@ -11,7 +11,7 @@ So for example we observe a growing reliance already by first-year students on t
 The spectra of use is very broad here. On the one hand, students let their tasks fully solve by AI systems, on the other hand
 students use AI to ask questions on the tasks, and resolve knowledge gaps with the help of AI systems.
 We observe that a lot of the results from the AI system are taken at face value,
-which does mostly not lead directly to problems at the under graduate levels since the basic material is well-known,
+which mostly  does not lead directly to problems at the under graduate levels since the basic material is well-known,
 but it reinforces the dangerous habit of not fact-checking results.
 
 Also we observe, that a lot of the exercising material that we currently provide becomes far too easy solvable 

@@ -3,7 +3,7 @@ We consider actual classroom experiences and maybe also the career path angle.
 
 ## Contribution
 The teachingRSE project represents an open group of individuals mostly from Germany that bring together their experiences
-of teaching at universities. We are a recognised special interest group of de-RSE e.V and of the german computer science association.
+of teaching research software engineering at universities. We are a recognised special interest group of de-RSE e.V and of the German computer science association.
 
 The impact of AI on teaching is in our opinion manifold.
 

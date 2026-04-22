@@ -14,7 +14,7 @@ We observe that a lot of the results from the AI system are taken at face value,
 which mostly  does not lead directly to problems at the under graduate levels since the basic material is well-known,
 but it reinforces the dangerous habit of not fact-checking results.
 
-Also we observe, that a lot of the exercising material that we currently provide becomes far too easy solvable 
+Also we observe, that a lot of the exercise material that we currently provide becomes far too easily solvable 
 using AI tools. This points at a lack of good AI patterns for exercising materials.
 A possible venue out here, is to ask bigger tasks from students. that would not have been resovable in an afternoon in previous times.
 With these bigger problems now should require students to figure out problem parts for an AI system, and afterwards recombine the solutions.

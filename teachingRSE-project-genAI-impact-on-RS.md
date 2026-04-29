@@ -12,7 +12,7 @@ Tool use ranges from getting the entire task solved by the AI system to using it
 Using an AI to simply solve a problem does not encourage learning. 
 The second approach, using the AI as a coach, can help the student explore the problem space and
 fill any knowledge gaps they might have.
-In both cases, there is a risk that the AI user will take the results at face value and beomes reliant on the AI.
+In both cases, there is a risk that the AI user will take the results at face value and becomes reliant on the AI.
 Many programming problems suitable for beginners are easily solved by genAI systems because they are well documented.
 This reinforces the dangerous habit of trusting the results without checking them.
 

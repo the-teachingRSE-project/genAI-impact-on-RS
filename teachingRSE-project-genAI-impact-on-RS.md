@@ -1,4 +1,6 @@
 # The impact on AI from the perspective of the teachingRSE project
+Authors: Florian Goth, Frank Löffler, Magnus Hagdorn, 
+
 We consider actual classroom experiences and maybe also the career path angle.
 
 ## Contribution

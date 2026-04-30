@@ -1,5 +1,5 @@
 # The impact on AI from the perspective of the teachingRSE project
-Authors: Florian Goth, Frank Löffler, Magnus Hagdorn, 
+Authors: Florian Goth, Frank Löffler, Magnus Hagdorn, Julian Dehne
 
 We consider actual classroom experiences and maybe also the career path angle.
 
@@ -31,7 +31,13 @@ This effectively means that these people never have the opportunity to mature in
 Programming as well as learning how to program is a social activity.
 When learners interact predominantly with an AI, fellow learners are denied the opportunity to explain a problem which is important to further enhance students' understanding.
 
+Research Software Development encompasses a variety of skills and competences that are related to programming such als algorithmic thinking, vectorizing equations and generally design the software 
+architecture according to the need of the experiment or analysis. From our perspective, the genAI turn in programming education
+influences some of these competences but not all, especially in the case of research software. 
 
+From this it follows, that the trending dichotomy of cancelling programming education altogether vs. stating that students
+need to learn this by hand might be oversimplified. There is a need for a thorough investigation of detailed competences and how
+they relate to genAI-supported programming and also mapping these to the specific set needed by research software engineers. 
 
 
 

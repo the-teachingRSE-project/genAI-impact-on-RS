@@ -4,16 +4,15 @@ Authors: Florian Goth, Frank Löffler, Magnus Hagdorn,
 We consider actual classroom experiences and maybe also the career path angle.
 
 ## Contribution
-The teachingRSE project represents an open group of individuals mostly from Germany that brings together their experiences
-of teaching research software engineering at research institutions. We are a recognised special interest group of de-RSE e.V and of the German computer science association.
+The teachingRSE project represents an open group of individuals mostly from Germany that brings together experiences of teaching research software engineering at research institutions.
+We are a recognised special interest group of de-RSE e.V and of the German computer science association.
 
 In our opinion, generative AI tools have a large impact on both the learners and the teachers.
 
 GenAI tools for programming are now widely available and many beginners are using these tools to solve their programming tasks.
 Tool use ranges from getting the entire task solved by the AI system to using it to walk the student through the task at hand. 
 Using an AI to simply solve a problem does not encourage learning. 
-The second approach, using the AI as a coach, can help the student explore the problem space and
-fill any knowledge gaps they might have.
+The second approach, using the AI as a coach, can help the student explore the problem space and fill any knowledge gaps they might have.
 In both cases, there is a risk that the AI user will take the results at face value and becomes reliant on the AI.
 Many programming problems suitable for beginners are easily solved by genAI systems because they are well documented.
 This reinforces the dangerous habit of trusting the results without checking them.

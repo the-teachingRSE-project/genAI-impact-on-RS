@@ -30,6 +30,11 @@ Also, we fear that by bypassing the simpler problems, the students miss the oppo
 This also manifests itself in the job market, where the tasks for junior people are now squeezed out in favour of AI systems.
 This effectively means that these people never have the opportunity to mature into senior roles.
 
+The ability to critically review outputs of genAI systems will become far more important.
+The speed with which new content can now be generated will pose a problem for the scientific community and the adherence to the FAIR principles.
+With genAI systems it becomes very easy for researchers to just produce stuff and forget about its reproducibility afterwards.
+
+
 Programming as well as learning how to program is a social activity.
 When learners interact predominantly with an AI, fellow learners are denied the opportunity to explain a problem which is important to further enhance students' understanding.
 

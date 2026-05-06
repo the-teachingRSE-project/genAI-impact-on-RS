@@ -1,5 +1,6 @@
 # The impact on AI from the perspective of the teachingRSE project
-Authors: Florian Goth, Frank Löffler, Magnus Hagdorn, Jan Linxweiler
+
+Authors: Julian Dehne, Florian Goth, Magnus Hagdorn, Frank Löffler, Jan Linxweiler
 
 We consider actual classroom experiences and maybe also the career path angle.
 
@@ -7,19 +8,54 @@ We consider actual classroom experiences and maybe also the career path angle.
 The teachingRSE project represents an open group of individuals mostly from Germany that brings together experiences of teaching research software engineering at research institutions.
 We are a recognised special interest group of de-RSE e.V and of the German computer science association.
 
-In our opinion, generative AI tools have a large impact on both the learners and the teachers.
+In our opinion, generative AI tools will have a large impact on the learners, the teachers, as well as the topics being taught.
 
+
+
+Research Software Development encompasses a variety of skills and competences that are related to programming such als algorithmic thinking, vectorizing equations and generally design the software 
+architecture according to the need of the experiment or analysis. 
+
+## 5 year future
+#### Why new concepts
+From this it follows, that the trending dichotomy of cancelling programming education altogether vs. stating that students
+need to learn this by hand might be oversimplified.
+There is a need for a thorough investigation of detailed competences and how
+they relate to genAI-supported programming and also mapping these to the specific set needed by research software engineers.
+Looking further ahead, we also focus on which skills will be required in the future in order to generate software.
+In the past, this skillset started with mere programming, but also included the more delicate art of software engineering, as well as the specification of requirements, different forms of testing and other skills.
+
+### old stuff replaced by new stuff
+Some of those skills were important in the past (and still are) because of the limitation of humans while writing software.
+Programs need to be typed, read, and understood in detail.
+Software refactoring was expensive because it involved all of the above.
+Not a small part of software engineering tries to minimize those costs, but now AI might be able to do all of these a lot faster and cheaper as well.
+But, if programming (on a lower level) and good software engineering (on a higher level) can be done by an AI, those skills do not need to be taught anymore, at least not aside from a small elite group.
+However, results still need to be checked.
+This likely involves a lot more than previously how to specify requirements (to the AI) and how to test the results of the AI, and those are the skills that have to be added to the teaching-RSE portfolio.
+
+
+## 2 year future
+We first consider the impact on learning how to program.
+
+### current problems in classrooms
 GenAI tools for programming are now widely available and many beginners are using these tools to solve their programming tasks.
-Tool use ranges from getting the entire task solved by the AI system to using it to walk the student through the task at hand. 
-Using an AI to simply solve a problem does not encourage learning. 
-The second approach, using the AI as a coach, can help the student explore the problem space and fill any knowledge gaps they might have.
+Tool use ranges from using them to walk the student through the process to letting the AI solve the entire task by itself.
+Especially the latter does not encourage learning, besides how to use an AI.
+On the other hand, the first approach, using the AI as a coach, can help the student explore the problem space and fill any knowledge gaps they might have.
 In both cases, there is a risk that the AI user will take the results at face value and becomes reliant on the AI.
 Many programming problems suitable for beginners are easily solved by genAI systems because they are well documented.
 This reinforces the dangerous habit of trusting the results without checking them. 
 As a consequence, teaching will have to put even more emphasis on skills like testing and Test Driven Development.
 
+#### solutions in classrooms for new student tasks
 So far, teachers have relied on problems to introduce programming to students, mostly on a detailed, algorithmic level.
 However, as noted above, these problems are documented and easily solved using genAI.
+A possible solution to this problem is to ask students to solve bigger, more complex tasks from the start.
+By doing so, we foster the use of genAI - whether this is good or bad is up for debate.
+As teachers we need to rethink how and what we teach, and how we check what the students have learned.
+As evidenced by this example, the notion of teaching people “algorithmic thinking”, the ability to analyse a problem
+and decompose it into subproblems amenable to execution on a computer, will become far more important than the actual coding of the algorithm via a specific language.
+The latter, experience with any specific programming language, will become a qualification necessary only for a small and specialised group.
 Hence, the focus of teaching should shift from lower-level details to a higher conceptual level, meaning that instead of learning 
 how to implement certain algorithms, it will be much more important to learn how to structure applications on a higher (architectural) level.
 As a result, AI enables the handling of scientific problems at a higher level of abstraction, allowing even more complex problems to be addressed.
@@ -27,26 +63,22 @@ However, in order to be able to effectively communicate with the AI at a higher 
 
 Still, to review results generated by an AI, the user needs to understand them, or at least test them sufficiently.
 Also, we fear that by bypassing the simpler problems, the students miss the opportunity to gain the required skills and experience.
+
+
+
+#### importance of reviewing and FAIR
+In order to be able to review results generated by an AI, the user needs to understand them.
+We fear that by bypassing the simpler problems the students miss the opportunity to gain the required skills and experience.
 This also manifests itself in the job market, where the tasks for junior people are now squeezed out in favour of AI systems.
 This effectively means that these people never have the opportunity to mature into senior roles.
-
 The ability to critically review outputs of genAI systems will become far more important.
 The speed with which new content can now be generated will pose a problem for the scientific community and the adherence to the FAIR principles.
 With genAI systems it becomes very easy for researchers to just produce stuff and forget about its reproducibility afterwards.
 
 
+#### social aspects
 Programming as well as learning how to program is a social activity.
 When learners interact predominantly with an AI, fellow learners are denied the opportunity to explain a problem which is important to further enhance students' understanding.
-
-
-
-
-
-
-
-
-
-
 
 
 ## DELETE AFTER THIS WHEN FINALISING!!!

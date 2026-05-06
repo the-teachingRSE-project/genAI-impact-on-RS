@@ -2,16 +2,13 @@
 
 Authors: Julian Dehne, Florian Goth, Magnus Hagdorn, Frank Löffler, Jan Linxweiler
 
-We consider actual classroom experiences and maybe also the career path angle.
-
-## Contribution
+## Abstract
 The teachingRSE project represents an open group of individuals mostly from Germany that brings together experiences of teaching research software engineering at research institutions.
 We are a recognised special interest group of de-RSE e.V and of the German computer science association.
-
 In our opinion, generative AI tools will have a large impact on the learners, the teachers, as well as the topics being taught.
-
 Research Software Development encompasses a variety of skills and competences that are related to programming such as algorithmic thinking,
-vectorizing equations and generally design the software architecture according to the need of the experiment or analysis. 
+and generally design the software architecture according to the need of the experiment or analysis that are affected by AI systems.
+In the following, we detail our thoughts and experiences on the short- and mid-term impacts.
 
 ## 5 year future
 #### Why new concepts
@@ -76,28 +73,3 @@ With genAI systems it becomes very easy for researchers to just produce stuff an
 #### social aspects
 Programming as well as learning how to program is a social activity.
 When learners interact predominantly with an AI, fellow learners are denied the opportunity to explain a problem which is important to further enhance students' understanding.
-
-
-## DELETE AFTER THIS WHEN FINALISING!!!
-
-Here the original mail:
-
-As discussed, I'd like to ask each of you to send me a short input of around half an A4 page, sharing your perspective. A few pointers:
-
- 
-
-    Please indicate which perspective you are representing (e.g. publisher, funder, researcher, etc.). Feel free to share multiple perspectives if you feel you represent multiple perspectives
-    
-    As technological advances move quickly, we're aiming for high-level, general perspectives that are not tied to a specific GenAI model
-    
-    Your input can cover positive experiences and opportunities, negative experiences and concerns, or both
-
- 
-
-Using this input, I will identify cross-cutting opportunities and issues that for the outline of a position paper, which we can discuss next meeting.
-
- 
-
-Could you please send me your input by the 6th of May? You can just send me an email with your input.
-
- 

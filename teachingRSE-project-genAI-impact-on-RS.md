@@ -10,19 +10,16 @@ We are a recognised special interest group of de-RSE e.V and of the German compu
 
 In our opinion, generative AI tools will have a large impact on the learners, the teachers, as well as the topics being taught.
 
-
-
-Research Software Development encompasses a variety of skills and competences that are related to programming such als algorithmic thinking, vectorizing equations and generally design the software 
-architecture according to the need of the experiment or analysis. 
+Research Software Development encompasses a variety of skills and competences that are related to programming such as algorithmic thinking,
+vectorizing equations and generally design the software architecture according to the need of the experiment or analysis. 
 
 ## 5 year future
 #### Why new concepts
-From this it follows, that the trending dichotomy of cancelling programming education altogether vs. stating that students
-need to learn this by hand might be oversimplified.
-There is a need for a thorough investigation of detailed competences and how
-they relate to genAI-supported programming and also mapping these to the specific set needed by research software engineers.
+From this it follows, that the trending dichotomy of cancelling programming education altogether vs. stating that students need to learn this by hand might be oversimplified.
+There is a need for a thorough investigation of detailed competences and how they relate to genAI-supported programming and also mapping these to the specific set needed by research software engineers.
 Looking further ahead, we also focus on which skills will be required in the future in order to generate software.
-In the past, this skillset started with mere programming, but also included the more delicate art of software engineering, as well as the specification of requirements, different forms of testing and other skills.
+In the past, this skillset started with mere programming, but also included the more delicate art of software engineering,
+as well as the specification of requirements, different forms of testing and other skills.
 
 ### old stuff replaced by new stuff
 Some of those skills were important in the past (and still are) because of the limitation of humans while writing software.

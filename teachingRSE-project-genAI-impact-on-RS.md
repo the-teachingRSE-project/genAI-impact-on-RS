@@ -7,27 +7,27 @@ Authors: Julian Dehne, Florian Goth, Magnus Hagdorn, Jan Linxweiler, Frank Löff
 The teachingRSE project represents an open group of individuals mostly from Germany that brings together experience of teaching research software engineering at research institutions.
 We are a recognised special interest group of de-RSE e.V and of the German Computer Science Association (GI).
 In our opinion, generative AI tools will have a substantial impact on the learners, the teachers, and the syllabus.
-Research Software Development encompasses a variety of skills and competences that are related to programming such as algorithmic thinking,
+Research Software Development encompasses a variety of skills and competencies that are related to programming such as algorithmic thinking,
 and generally designing the software architecture according to the research needs. These can be the experiment or an analysis that is affected by an AI systems.
 In the following, we detail our perspectives regarding the short- and mid-term impact of AI in RSE education.
 
 ## Looking Five Years Ahead
 
-### New Competences
+### New Competencies
 
 The trending dichotomy of cancelling programming education altogether versus stating that students need to learn this by hand might be oversimplified.
-There is a growing need for a thorough investigation of detailed competences and how they relate to genAI-supported programming, and also mapping these to the specific set needed by research software engineers.
+There is a growing need for a thorough investigation of detailed competencies and how they relate to genAI-supported programming, and also mapping these to the specific set needed by research software engineers.
 Looking further ahead, we also focus on which skills will be required in the future in order to generate software.
-In the past, this skillset started with programming, but also included competences from the domain of software engineering,
+In the past, this skill set started with programming, but also included competencies from the domain of software engineering,
 such as the specification of requirements, different forms of testing and more.
 
-### Transformative Changes in needed Competences
+### Transformative Changes in needed Competencies
 
 Some of those skills were important in the past (and still are) because of the limitation of humans writing software.
 Programs need to be typed, read, and understood in detail.
 Software refactoring was expensive because it involved all of the above.
-Not a small part of software engineering tries to minimize those costs, but now AI might be able to do all of these a lot faster and cheaper as well.
-But, if programming (on a lower level) and good software engineering (on a higher level) can be done by an AI, those skills do not need to be taught anymore, at least not aside from a small elite group.
+Not a small part of software engineering tries to minimise those costs, but now AI might be able to do all of these a lot faster and cheaper as well.
+But, if programming (on a lower level) and good software engineering (on a higher level) can be done by an AI, those skills do not need to be taught any more, at least not aside from a small elite group.
 However, results still need to be checked.
 This involves the ability to specify requirements (to the AI) and how to test the results of the AI, skills that have to be added to the teaching-RSE portfolio.
 
@@ -83,7 +83,6 @@ With genAI systems it becomes very easy for researchers to just produce stuff an
 Programming as well as learning how to program is a social activity.
 When learners interact predominantly with an AI, fellow learners are denied the opportunity to explain a problem which is critical to develop communication skills and enhanced understanding of best practices in coding and software engineering.
 It will be interesting to see, if this will continue to be identified as a problem, or if a younger generation, raised on total digital communication sees this as a non-issue.
-
 
 ## Summary
 AI will change our tasks and use-cases of RSEs in a fundamental manner.

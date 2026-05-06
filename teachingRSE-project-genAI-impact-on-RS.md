@@ -18,7 +18,7 @@ In the following, we detail our perspectives regarding the short- and mid-term i
 The trending dichotomy of cancelling programming education altogether versus stating that students need to learn this by hand might be oversimplified.
 There is a growing need for a thorough investigation of detailed competencies and how they relate to genAI-supported programming, and also mapping these to the specific set needed by research software engineers.
 Looking further ahead, we also focus on which skills will be required in the future in order to generate software.
-In the past, this skillset started with programming, but also included competencies from the domain of software engineering,
+In the past, this skill set started with programming, but also included competencies from the domain of software engineering,
 such as the specification of requirements, different forms of testing and more.
 
 ### Transformative Changes in needed Competencies
@@ -26,8 +26,8 @@ such as the specification of requirements, different forms of testing and more.
 Some of those skills were important in the past (and still are) because of the limitation of humans writing software.
 Programs need to be typed, read, and understood in detail.
 Software refactoring was expensive because it involved all of the above.
-Not a small part of software engineering tries to minimize those costs, but now AI might be able to do all of these a lot faster and cheaper as well.
-But, if programming (on a lower level) and good software engineering (on a higher level) can be done by an AI, those skills do not need to be taught anymore, at least not aside from a small elite group.
+Not a small part of software engineering tries to minimise those costs, but now AI might be able to do all of these a lot faster and cheaper as well.
+But, if programming (on a lower level) and good software engineering (on a higher level) can be done by an AI, those skills do not need to be taught any more, at least not aside from a small elite group.
 However, results still need to be checked.
 This involves the ability to specify requirements (to the AI) and how to test the results of the AI, skills that have to be added to the teaching-RSE portfolio.
 
